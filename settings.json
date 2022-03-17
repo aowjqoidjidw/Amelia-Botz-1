@@ -53,9 +53,9 @@
      
      "setPrefix": {
      "prefix": "!",
-     "multi": false,
+     "multi": true,
      "onepref" : false,
-     "nopref" : true
+     "nopref" : false
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
